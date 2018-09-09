@@ -1,0 +1,85 @@
+body{
+    background-color: silver
+}
+div.head{
+    background-color: purple;
+    min-width: 90%;
+    max-height: 10%;
+}
+.cartlogo{
+    align-content: flex-end;
+    margin-left: 95%
+}
+#logoo{
+height: 150px;
+width: 400px;
+margin-left: 30%;
+margin-right: 40%;
+margin-top: 15px;}
+
+div.button{
+    border-top:solid px;
+    border-bottom: solid 1px;
+    text-align: center;
+    background-color: purple;
+    display: flex;
+    }
+
+    
+    a:link {
+        color: white;
+        width: 1%;
+        text-align: center;
+        font-size: 24px;
+        text-decoration: none;
+        margin-left: 12%;
+    }
+
+    .widthHeight {
+        width: 1264px;
+        height: 439px
+    }
+    .hide {
+        display: none;
+    }
+    
+
+    .show {
+        display: block;
+    }
+
+    h3{
+        background-color: purple;
+        min-width: 90%;
+        max-height: 70%;
+        color: white;
+        font-size: 24pt;
+    }
+#cartvalue{
+    font-size: 14pt;
+    color: white  
+}
+
+div.company{
+    align-content: center;
+    display: inline;
+    margin-left: 10%;
+    }
+    div.foot{
+        background-color: purple;
+        min-width: 10%;
+        max-width: 100%;
+        min-height: 10%;
+        max-height: 60%;
+        text-align: center;
+        color: white;
+        text-decoration-style: double;
+        font-family: 'Times New Roman', Times, serif;
+        text-size-adjust: 20px
+    }
+    div.mobile{
+        align-content: center;
+        display: inline;
+        margin-left: 0%;
+        justify-content: center
+        }
